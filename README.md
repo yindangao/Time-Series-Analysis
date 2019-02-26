@@ -1,5 +1,5 @@
 # Time-Series-Analysis
-This depository stores my notes on three textbooks. 
+This depository stores my notes. 
 
 Notes 1 is on linear time series analysis.
 
